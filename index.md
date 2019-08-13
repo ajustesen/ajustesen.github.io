@@ -6,6 +6,8 @@ layout: default
 
 My name is Anders Bo Justesen.
 
+My research interests are exoplanetary systems and binary stars. I'm particularly interested in the formation and dynamical evolution of these systems. 
+
 Since November 2016, I am a PhD student advised by Simon Albrecht at Aarhus University.
 
 You can email me at <justesen@phys.au.dk>.
